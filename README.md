@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Unity3D%20Version:-2022.3.8f1-orange?logo=unity)](https://unity.com/releases/editor/qa/lts-releases)
+[![](https://img.shields.io/badge/Unity3D%20Version:-2022.3.8f1-orange?logo=unity)][1]
 
 Lightweight Unity3D template project for prototyping.
 
@@ -12,3 +12,5 @@ Lightweight Unity3D template project for prototyping.
 
 #### 📦️ External Plugins
 - [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
+
+[1]: https://unity.com/releases/editor/qa/lts-releases
