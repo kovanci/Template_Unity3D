@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Unity3D%20Version:-2022.3.8f1-orange?logo=unity)
+[![](https://img.shields.io/badge/Unity3D%20Version:-2022.3.8f1-orange?logo=unity)](https://unity.com/releases/editor/qa/lts-releases)
 
 Lightweight Unity3D template project for prototyping.
 
