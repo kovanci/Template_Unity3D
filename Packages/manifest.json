@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.kovanci.chimpeditor": "1.0.7",
+    "com.kovanci.chimpeditor": "1.0.8",
     "com.unity.cinemachine": "2.9.7",
     "com.unity.device-simulator.devices": "1.0.0",
     "com.unity.ide.rider": "3.0.25",
