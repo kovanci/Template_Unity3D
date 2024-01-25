@@ -13,6 +13,7 @@ Lightweight Unity3D template project for prototyping.
 - [Addressables](https://docs.unity3d.com/Packages/com.unity.addressables@1.21/manual/index.html)
 
 #### 📦️ External Plugins
+- [Hot Reload](https://assetstore.unity.com/packages/tools/utilities/hot-reload-edit-code-without-compiling-254358)
 - [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
 
 #### :test_tube: SRP Tips
