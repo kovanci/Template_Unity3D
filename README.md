@@ -17,7 +17,7 @@ Lightweight Unity3D template project for prototyping.
 - [Hot Reload](https://assetstore.unity.com/packages/tools/utilities/hot-reload-edit-code-without-compiling-254358)
 - [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
 
-#### :test_tube: SRP Tips
+#### 🧪 SRP Tips
 - Frame Stats Profiler
   - Enable `Frame Timing Stats` in `Project Settings`
   - Display stats are available in Play Mode in the game view with `Ctrl+Backspace`
