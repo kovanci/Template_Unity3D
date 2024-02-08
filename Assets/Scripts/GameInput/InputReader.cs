@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.InputSystem;
 
-namespace Input
+namespace GameInput
 {
     [CreateAssetMenu]
     public class InputReader : ScriptableObject, GameInputActions.IPlayerActions

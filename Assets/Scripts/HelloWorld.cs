@@ -1,6 +1,6 @@
 using UnityEngine;
 
-using Input;
+using GameInput;
 
 public class HelloWorld : MonoBehaviour
 {
