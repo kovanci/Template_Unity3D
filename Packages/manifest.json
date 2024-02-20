@@ -2,7 +2,7 @@
   "dependencies": {
     "com.kovanci.chimpeditor": "1.0.9",
     "com.singularitygroup.hotreload": "git+https://gitlab.hotreload.net/root/hot-reload-releases.git#1.12.9",
-    "com.unity.addressables": "1.21.19",
+    "com.unity.addressables": "1.21.20",
     "com.unity.cinemachine": "2.9.7",
     "com.unity.device-simulator.devices": "1.0.0",
     "com.unity.ide.rider": "3.0.27",
@@ -12,7 +12,7 @@
     "com.unity.recorder": "4.0.2",
     "com.unity.render-pipelines.universal": "14.0.10",
     "com.unity.test-framework": "1.1.33",
-    "com.unity.textmeshpro": "3.0.7",
+    "com.unity.textmeshpro": "3.0.8",
     "com.unity.timeline": "1.7.6",
     "com.unity.ugui": "1.0.0",
     "com.unity.modules.ai": "1.0.0",
