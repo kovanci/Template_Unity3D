@@ -25,8 +25,15 @@
 
 # IDE's
 .vs/
-.vscode/
 .idea/
+
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
 
 # Gradle cache directory
 .gradle/
