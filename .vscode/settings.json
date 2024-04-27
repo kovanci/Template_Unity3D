@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.asset": "yaml",
+        "*.unity": "yaml",
+        "*.mat": "yaml",
+        "*.colors": "yaml",
+        "*.lighting": "yaml",
+        "*.controller": "yaml",
+        "*.inputactions": "json",
+    },
+    "files.exclude" : {
+        "**/UserSettings": true,
+        "**/Logs": true,
+        "**/**.meta": true,
+        "**/Temp": true,
+    },
+}
